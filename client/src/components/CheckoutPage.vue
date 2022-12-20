@@ -7,7 +7,7 @@
       <div class="card py-3 px-3 w-50 text-start">
         <form>
             <div>
-                
+                    
             </div>
           <select class="form-select mb-3" aria-label="Default select example">
             <option selected>Payment Method</option>
