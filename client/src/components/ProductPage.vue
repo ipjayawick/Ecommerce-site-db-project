@@ -24,6 +24,7 @@
               class="form-select mb-3"
               aria-label="Default select example"
             >
+              <option selected>Select Variant</option>
               <option value="1">Variant 1</option>
               <option value="2">Variant 2</option>
             </select>
