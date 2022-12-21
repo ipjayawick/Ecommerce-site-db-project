@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-dark navbar-expand bg-dark p-2">
       <div class="container-fluid px-3">
-        <a class="navbar-brand" href="#"
+        <a class="navbar-brand" 
           ><span class="mb-0 h1">My Shop</span></a
         >
         <div class="collapse navbar-collapse" id="navbarNavDropdown">

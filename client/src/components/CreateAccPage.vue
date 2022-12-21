@@ -58,14 +58,14 @@
 
         <div class="mb-3">
           <label for="exampleDropdownFormEmail1" class="form-label"
-            >Streed Adress</label
+            >Street Adress</label
           >
           <input
           v-model="streetAddress"
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
-            placeholder="Streed Adress"
+            placeholder="Street Adress"
           />
         </div>
 
@@ -76,7 +76,7 @@
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
-            placeholder="Username"
+            placeholder="City"
           />
         </div>
 
