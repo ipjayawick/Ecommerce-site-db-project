@@ -5,6 +5,7 @@ import HomePage from './components/HomePage.vue'
 import ProductPage from './components/ProductPage.vue'
 import ProductsPage from './components/ProductsPage.vue'
 import CheckoutPage from './components/CheckoutPage.vue'
+import ReportPage from './components/ReportPage.vue'
 import {createRouter,createWebHashHistory} from "vue-router"
 
 const routes =[
@@ -42,6 +43,11 @@ const routes =[
         name:'ProductsPage',
         component:ProductsPage,
         path:'/products'
+    },
+    {
+        name:'ReportPage',
+        component:ReportPage,
+        path:'/report'
     }
     
 ];
