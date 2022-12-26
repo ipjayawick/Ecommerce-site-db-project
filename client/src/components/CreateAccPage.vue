@@ -9,7 +9,6 @@
             >User Name</label
           >
           <input
-          v-model="email"
             type="email"
             class="form-control"
             id="exampleDropdownFormEmail1"
@@ -22,7 +21,6 @@
             >Password</label
           >
           <input
-          v-model="password"
             type="password"
             class="form-control"
             id="exampleDropdownFormPassword1"
@@ -35,7 +33,6 @@
             >First Name</label
           >
           <input
-          v-model="firstName"
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
@@ -48,7 +45,6 @@
             >Last Name</label
           >
           <input
-          v-model="lastName"
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
@@ -61,7 +57,6 @@
             >Street Adress</label
           >
           <input
-          v-model="streetAddress"
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
@@ -72,7 +67,6 @@
         <div class="mb-3">
           <label for="exampleDropdownFormEmail1" class="form-label">City</label>
           <input
-          v-model="username"
             type="text"
             class="form-control"
             id="exampleDropdownFormEmail1"
@@ -85,7 +79,6 @@
             >Telephone No.</label
           >
           <input
-          v-model="telephoneNum"
             type="tel"
             class="form-control"
             id="exampleDropdownFormEmail1"

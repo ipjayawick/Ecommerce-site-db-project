@@ -31,7 +31,7 @@
             <a href="#" class="btn btn-secondary mt-3">Add to Cart</a>
           </div>
         </div>
-      </div>
+      </div>            
     </section>
   </div>
 </template>    

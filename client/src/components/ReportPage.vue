@@ -9,26 +9,24 @@
           <div class="d-flex flex-row">
             <div class="d-flex gap-3">
               <div>
-
-              <select
-                class="form-select mb-3"
-                aria-label="Default select example"
-              >
-                <option selected>Select Year</option>
-                <option value="1">Variant 1</option>
-                <option value="2">Variant 2</option>
-              </select>
+                <select
+                  class="form-select mb-3"
+                  aria-label="Default select example"
+                >
+                  <option selected>Select Year</option>
+                  <option value="1">January</option>
+                  <option value="2">February</option>
+                </select>
               </div>
               <div>
-
-              <select
-                class="form-select mb-3"
-                aria-label="Default select example"
-              >
-                <option selected>Select Quarter</option>
-                <option value="1">Variant 1</option>
-                <option value="2">Variant 2</option>
-              </select>
+                <select
+                  class="form-select mb-3"
+                  aria-label="Default select example"
+                >
+                  <option selected>Select Quarter</option>
+                  <option value="1">Variant 1</option>
+                  <option value="2">Variant 2</option>
+                </select>
               </div>
             </div>
             <div class="ms-3">
@@ -97,7 +95,18 @@
     </div>
 
     <div class="d-flex flex-column bd-highlight mb-3 text-start lead gap-2">
-      <div class="p-3 bd-highlight card bg-light text-black d-flex flex-column gap-2">
+      <div
+        class="
+          p-3
+          bd-highlight
+          card
+          bg-light
+          text-black
+          d-flex
+          flex-column
+          gap-2
+        "
+      >
         <div class="h4 mb-3">Product with most number of sales</div>
         <div class="d-flex flex-row gap-2">
           <div>
@@ -123,9 +132,23 @@
           <span class="text-warning fw-bold">Answer</span>
         </div>
       </div>
-      <div class="p-3 bd-highlight card bg-light text-black d-flex flex-column gap-2">
+      <div
+        class="
+          p-3
+          bd-highlight
+          card
+          bg-light
+          text-black
+          d-flex
+          flex-column
+          gap-2
+        "
+      >
         <div class="h4 mb-3">Product category with most orders</div>
         <div class="d-flex flex-row gap-2">
+          <!-- <div>
+          <input type="month"/>
+          </div> -->
           <div>
             <select class="form-select" aria-label="Default select example">
               <option selected>Select Year</option>
@@ -149,7 +172,18 @@
           <span class="text-warning fw-bold">Answer</span>
         </div>
       </div>
-      <div class="p-3 bd-highlight card bg-light text-black d-flex flex-column gap-2">
+      <div
+        class="
+          p-3
+          bd-highlight
+          card
+          bg-light
+          text-black
+          d-flex
+          flex-column
+          gap-2
+        "
+      >
         <div class="h4 mb-3">Time period with most interest to a product</div>
         <div class="d-flex flex-row gap-2">
           <div>
