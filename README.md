@@ -1,11 +1,3 @@
-# E-commerce Website
+# E-commerce Website with Vuejs
 
-E-commerce website for selling electronic items.
-+ Frontend - React
-+ Backend - Nodejs, Express
-+ Database - Mysql
-
-Functionalities
-+ Browse and select Products
-+ Adding and removing items to the cart
-+ Account Creation and login functions
+Semester 3 DBMS project with vuejs
